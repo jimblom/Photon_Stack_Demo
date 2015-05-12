@@ -4,8 +4,6 @@
 #include "SparkFunPhant.h"
 #include "math.h"
 
-const float DECLINATION = 8.63; // Magnetic declination (~8deg38' in Niwot, CO)
-
 //////////////////////////
 // MicroOLED Definition //
 //////////////////////////
